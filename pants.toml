@@ -5,7 +5,7 @@ backend_packages = [
 ]
 
 [python]
-interpreter_constraints = ['==3.11.*']
+interpreter_constraints = ['==3.9.*']
 enable_resolves = true
 default_resolve = "main_resolve"
 

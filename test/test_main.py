@@ -1,4 +1,4 @@
-from foo.bar import main
+from foo.bar import main  # pants: no-infer-dep
 
 
 def test_show():

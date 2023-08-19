@@ -6,7 +6,7 @@
 // {
 //   "version": 3,
 //   "valid_for_interpreter_constraints": [
-//     "CPython==3.11.*"
+//     "CPython==3.9.*"
 //   ],
 //   "generated_with_requirements": [
 //     "cython",
@@ -38,18 +38,18 @@
             },
             {
               "algorithm": "sha256",
-              "hash": "c93634845238645ce7abf63a56b1c5b6248189005c7caff898fd4a0dac1c5e1e",
-              "url": "https://files.pythonhosted.org/packages/27/04/cbbe3971554afb92c2cd99d4246a68b9e3d3f8c01a3b632e4fe460c38cc1/Cython-3.0.0-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl"
+              "hash": "877d1c8745df59dd2061a0636c602729e9533ba13f13aa73a498f68662e1cbde",
+              "url": "https://files.pythonhosted.org/packages/15/37/314c82797f3798d738f5bde4b85c01f54b2b81acf516fb3fcbc6896c5f8f/Cython-3.0.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl"
             },
             {
               "algorithm": "sha256",
-              "hash": "93a34e1ca8afa4b7075b02ed14a7e4969256297029fb1bfd4cbe48f7290dbcff",
-              "url": "https://files.pythonhosted.org/packages/49/3a/cb96d19cd3100a055bc06c0fdb9a9bb226161966ba313a5d694239b75641/Cython-3.0.0-cp311-cp311-musllinux_1_1_aarch64.whl"
+              "hash": "54e34f99b2a8c1e11478541b2822e6408c132b98b6b8f5ed89411e5e906631ea",
+              "url": "https://files.pythonhosted.org/packages/38/ee/59705c7047ba0a6f8fe9fd97177479cb42b9ff57b16bb3b7bc56b44ebc24/Cython-3.0.0-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl"
             },
             {
               "algorithm": "sha256",
-              "hash": "d3355e6f690184f984eeb108b0f5bbc4bcf8b9444f8168933acf79603abf7baf",
-              "url": "https://files.pythonhosted.org/packages/72/12/3b57b15b60e6e5ef8f02a580c2176c8705a83e6bef9eb8cfe407baa9f2d1/Cython-3.0.0-cp311-cp311-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl"
+              "hash": "06fcb4628ccce2ba5abc8630adbeaf4016f63a359b4c6c3827b2d80e0673981c",
+              "url": "https://files.pythonhosted.org/packages/69/6b/159c97595de7bd2c5de578a79c55db215e743ff4696a18b76b2b1112419a/Cython-3.0.0-cp39-cp39-musllinux_1_1_aarch64.whl"
             },
             {
               "algorithm": "sha256",
@@ -58,18 +58,18 @@
             },
             {
               "algorithm": "sha256",
-              "hash": "bb1165ca9e78823f9ad1efa5b3d83156f868eabd679a615d140a3021bb92cd65",
-              "url": "https://files.pythonhosted.org/packages/88/90/e94b3dc8d0a988b4c8a98b5058ff57d677588b6dba657602c1c958192bf3/Cython-3.0.0-cp311-cp311-musllinux_1_1_x86_64.whl"
+              "hash": "2d8158277c8942c0b20ff4c074fe6a51c5b89e6ac60cef606818de8c92773596",
+              "url": "https://files.pythonhosted.org/packages/a7/9d/643b508fc18fe095a8c1efea5bd86054ac63974ecd566dba962de40ebaa6/Cython-3.0.0-cp39-cp39-macosx_10_9_x86_64.whl"
             },
             {
               "algorithm": "sha256",
-              "hash": "aa606675c6bd23478b1d174e2a84e3c5a2c660968f97dc455afe0fae198f9d3d",
-              "url": "https://files.pythonhosted.org/packages/89/40/3d7ab35f917d4d0ea2ce2fd0eb84166956b0b943a7c4b96e59c6fa968916/Cython-3.0.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl"
+              "hash": "090e24cfa31c926d0b13d8bb2ef48175acdd061ae1413343c94a2b12a4a4fa6f",
+              "url": "https://files.pythonhosted.org/packages/ca/8b/115542b6b6a0f539db7b5945f7e63244b0b531665a666b85e3b6aa0e243e/Cython-3.0.0-cp39-cp39-musllinux_1_1_x86_64.whl"
             },
             {
               "algorithm": "sha256",
-              "hash": "06db81b1a01858fcc406616f8528e686ffb6cf7c3d78fb83767832bfecea8ad8",
-              "url": "https://files.pythonhosted.org/packages/8f/c8/49c446320661cb335c593b25c7b64e6844dde33dd0da7d625d7099790637/Cython-3.0.0-cp311-cp311-macosx_10_9_x86_64.whl"
+              "hash": "204690be60f0ff32eb70b04f28ef0d1e50ffd7b3f77ba06a7dc2389ee3b848e0",
+              "url": "https://files.pythonhosted.org/packages/d3/e1/390725f72f26a7520cb79a2de1235226b53e9b2b33e38eb523068e71d39d/Cython-3.0.0-cp39-cp39-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl"
             }
           ],
           "project_name": "cython",
@@ -175,7 +175,7 @@
     "wheel"
   ],
   "requires_python": [
-    "==3.11.*"
+    "==3.9.*"
   ],
   "resolver_version": "pip-2020-resolver",
   "style": "universal",

@@ -1,4 +1,4 @@
-from . import bar
+from . import bar  # pants: no-infer-dep
 import tabulate
 
 
