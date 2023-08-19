@@ -1,0 +1,25 @@
+[GLOBAL]
+pants_version = "2.16.0"
+backend_packages = [
+    "pants.backend.python",
+]
+
+[python]
+interpreter_constraints = ['==3.11.*']
+enable_resolves = true
+default_resolve = "main_resolve"
+
+[anonymous-telemetry]
+enabled = false
+
+[python.resolves]
+main_resolve = "main_resolve.lock"
+setuptools_resolve = "setuptools.lock"
+
+[setuptools]
+install_from_resolve = "setuptools_resolve"
+requirements = [
+    "//:setuptoolsreqs"
+]
+
+
