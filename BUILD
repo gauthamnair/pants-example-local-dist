@@ -1,6 +1,8 @@
-resource(name="readme", source="README.md")
 resources(name="setup", sources=["setup.*"])
 
+python_requirements(name="reqs",
+                    source="requirements.txt",
+                    resolve="main_resolve")
 
 python_requirements(name="setuptoolsreqs",
                     source="setuptools-requirements.txt",
