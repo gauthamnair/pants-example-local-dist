@@ -1,4 +1,4 @@
-resources(name="setup", sources=["setup.*"])
+resource(name="setup", sources=["setup.py"])
 
 python_requirements(name="reqs",
                     source="requirements.txt",
