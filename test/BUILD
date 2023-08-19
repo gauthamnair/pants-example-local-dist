@@ -4,5 +4,5 @@ python_tests(
         "//:foodist",
         "!!//src/foo:foo",
         "!!//src/foo:pyx",
-    ]
+    ],
 )

@@ -2,6 +2,7 @@
 pants_version = "2.16.0"
 backend_packages = [
     "pants.backend.python",
+    "pants.backend.build_files.fmt.black",
 ]
 
 [python]
